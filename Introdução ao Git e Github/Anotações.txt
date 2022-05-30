@@ -1,4 +1,32 @@
-Apenas seguindo o curso...
+GIT / Github
 
-Link para download do Git: https://git-scm.com/downloads
-O Git Bash ...
+- git init : inicia um repositório
+- git add : adiciona novos arquivos
+- git commit
+- git status : informa o status dos arquivos
+- git pull 
+- git clone
+
+
+git commit -m "Mensagem" - O -m significa carregar todos os arquivos.
+git add * - Adiciona todos os arquivos
+git pull origin master
+git clone url.com
+
+
+arquivos .md
+
+# -> <h1>
+## -> <h2>
+E segue...
+
+**Negrito**
+_italico_
+
+Listas não ordenadas:
+Coloca *
+Listas ordenadas:
+Coloca 1.
+
+
+
